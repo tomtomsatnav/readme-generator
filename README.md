@@ -20,7 +20,7 @@
   ## Usage
   Type 'node index.js' in the terminal and answer the questions provided. An example video is shown below.
 
-  [Click here for video](https://www.youtu.be/kcwSetqnmf4)
+  [Click here for video](https://youtu.be/kcwSetqnmf4)
   
   ## License Used
   None
